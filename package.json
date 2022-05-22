@@ -39,5 +39,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01Clarian/nft-marketplace-starter-kit.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01Clarian/nft-marketplace-starter-kit/issues"
+  },
+  "homepage": "https://github.com/01Clarian/nft-marketplace-starter-kit#readme"
 }
